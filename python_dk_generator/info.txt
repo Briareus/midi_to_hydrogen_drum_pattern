@@ -1,0 +1,4 @@
+ffmpeg -i test_01.flac -t 1 -y test_02.flac
+
+# split files into equal segments
+ffmpeg -i arabia_main.flac -f segment -segment_time 1 -c copy /arabia/arabia.flac

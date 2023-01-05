@@ -1,0 +1,13 @@
+{
+    "kit_name": "Goodlife Drum Kit",
+    "inst_name_prefix": "Goodlife",
+    "auto_adjust_pitch": true,
+    "auto_assign_midi_notes": true,
+    "kit_desc": "Drum Kit created from Goodlife audio files",
+    "pitch_adjustment_values": {
+        "low": -6,
+        "mid": 0,
+        "high": 8
+    },
+    "truncate_sound_files": 0.5
+}
